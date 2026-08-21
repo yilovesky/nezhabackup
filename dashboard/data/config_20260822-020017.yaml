@@ -1,0 +1,57 @@
+admin_template: admin-dist
+agent_secret_key: VYNmVw14sxu8Bt3C9fy0vZZ2QWNIMFkH
+avg_ping_count: 2
+cover: 1
+custom_code: "ago\n#5\n<meta name=\"referrer\" content=\"no-referrer\">\n<div class=\"video-box\">\n<video
+  id=\"myVideo\" muted\nsrc=\"https://webusstatic.yo-star.com/bluearchive_jp_web/media/bg.555a8a72.mp4\"\nautoplay
+  playsinline loop>\n</video>\n</div>\n<style>\n:root {\n--custom-border-color: rgba(13,
+  11, 9, 0.1);\n--custom-background-color: rgba(13, 11, 9, 0.4);\n--custom-background-image:
+  unset;\n}\n\n.dark #root {\nbackground-color: unset !important;\n}\n\n.dark .bg-card
+  {\nbackground-color: var(--custom-background-color);\nbackdrop-filter: blur(4px);\nborder:
+  1px solid rgba(13, 11, 9, 0.1);\nbox-shadow: 0 4px 6px rgba(13, 11, 9, 0.2);\n/*
+  阴影效果 */\n}\n\n.focus:text-accent-foreground:focus {\nbackground-color: rgba(13,
+  11, 9, 0.5);\n}\n\n.dark .text-muted-foreground {\ncolor: #fff;\n}\n\n.dark:bg-stone-700:is(.dark
+  *) {\n--tw-bg-opacity: 0.5;\n}\n\nhtml.dark * {\nborder-color: var(--custom-border-color);\n}\n\nhtml.dark
+  body {\ncolor: #f4f5f6;\nbackground: unset;\nposition: relative;\n}\n\nimg {\nborder:
+  none;\n}\n\n.dark:border-neutral-800:is(.dark *) {\nborder-color: var(--custom-border-color);\n}\n\n.dark:bg-stone-800:is(.dark
+  *) {\n--tw-bg-opacity: 0.5;\nbackground-color: rgb(41 37 36 / var(--tw-bg-opacity,
+  1));\n}\n\n.dark:text-stone-500:is(.dark *) {\ncolor: #f4f5f6;\n}\n\n.dark .bg-secondary
+  {\nbackground-color: unset;\n}\n\n.dark .bg-popover {\nbackground-color: unset;\n}\n\n.dark
+  .bg-muted {\nbackground-color: var(--custom-border-color);\n}\n\n.dark:bg-black:is(.dark
+  *) {\nbackground-color: rgba(13, 11, 9, 0.1);\n}\n\n.dark .bg-border {\nbackground-color:
+  var(--custom-border-color);\n}\n\n.dark .border-input {\nborder-color: var(--custom-border-color);\n}\n\n.dark:text-neutral-300/50:is(.dark
+  *) {\ncolor: #999;\n}\n\n.dark:text-stone-400:is(.dark *) {\ncolor: #fff;\n}\n\ndiv#radix-:r4:
+  {\nbackground: rgba(0, 0, 0, 0.7);\n}\n\n.dark .bg-stone-800 {\nbackground: var(--custom-background-color);\n}\n\n.text-green-600
+  {\ncolor: rgb(34, 197, 94);\n}\n\n.bg-green-600 {\nbackground-color: rgb(34, 197,
+  94);\n}\n\n.dark .vps-info {\nborder-radius: 12px;\npadding: 12px;\n}\n\n.dark .font-medium.opacity-40
+  {\nopacity: unset;\n}\n\n.dark .font-medium.opacity-50 {\nopacity: unset;\n}\n\n.dark
+  .max-w-5xl.gap-4>div:first-child {\nbackground-color: var(--custom-background-color);\nbackdrop-filter:
+  blur(2px);\nborder: 1px solid rgba(13, 11, 9, 0.2);\nbox-shadow: 0 4px 6px rgba(13,
+  11, 9, 0.2);\nborder-radius: 12px;\npadding: 12px;\n}\n\nimg[alt=\"BackIcon\"] {\n/*
+  样式规则 */\nmargin-right: 12px;\n}\n\n.flex.items-center.gap-1.rounded-[50px].bg-stone-100.p-[3px].dark:bg-stone-800
+  {\nbackdrop-filter: blur(2px);\n}\n\n.[&_.recharts-cartesian-axis-tick_text]:fill-muted-foreground
+  .recharts-cartesian-axis-tick text {\nfill: #fff;\n}\n\n.dark:fill-neutral-800:is(.dark
+  *) {\nfill: #fff;\n}\n\n.data-[state=unchecked]:bg-input[data-state=unchecked] {\nbackground-color:
+  unset;\n}\n\n.data-[state=checked]:bg-primary[data-state=checked] {\nbackground-color:
+  var(--custom-background-color);\n}\n\n.video-box {\nposition: fixed;\nz-index: 1;\ntop:
+  0;\nleft: 0;\nbottom: 0;\nright: 0;\n}\n\n.video-box video {\nwidth: 100%;\nheight:
+  100%;\nobject-fit: cover;\n}\n</style>\n\n<script>\n\nwindow.CustomMobileBackgroundImage=\"https://webusstatic.yo-star.com/bluearchive_jp_web/img/c1.902d2ae5.png\";\nwindow.CustomLogo
+  = \"https://webusstatic.yo-star.com/bluearchive_jp_web/img/c1.902d2ae5.png\";\nwindow.ShowNetTransfer
+  \ = \"true\";\nwindow.CustomDesc =\"aoi的真眼\"; \n\nwindow.CustomIllustration = \"https://webusstatic.yo-star.com/bluearchive_jp_web/img/c1.902d2ae5.png\";\nwindow.ForceTheme
+  = \"dark\";\n\nvar observer = new MutationObserver(function(mutationsList, observer)
+  {\nvar xpath = \"/html/body/div/div/main/div[2]/section[1]/div[4]/div\";\nvar container
+  = document.evaluate(xpath, document, null, XPathResult.FIRST_ORDERED_NODE_TYPE,
+  null).singleNodeValue;\n\nif (container) {\n    observer.disconnect();\n    var
+  existingImg = container.querySelector(\"img\");\n    if (existingImg) {\n        container.removeChild(existingImg);"
+https: {}
+install_host: nz.117.de5.net:443
+ip_change_notification_group_id: 0
+jwt_secret_key: Ue9s5sYhICiW78ENz4jga1qyoCTAikl9J3IfSZdnJtaWjUMgxxH2tlKXbhkG9RiUj4gpbUl1sdO7A4y2AYEGBvOalK5dfmdvq5QaXwPQEmW7liG8fcPUZlskawPlgj28sREGfE6elWNjvekpDA2v5yfA9V6qp97UKcGduTGv4dR5BnkeyDP6HYzyGVF6WGAhVe4Ew4WZqbRm5d0ICCrmRCDqe2lmOZRkO9fj978RwTS34yyVaSFmpGKp8Y0St177qoLI1w90vfeRS95puEjgagiTaSaKfughkw83JtbWJtF7eBocMGw96387R1vZQduolGacKwYSUvknYJ1fX9HbKGxwQqzlQO0LNmeH50500Tnd7K0nLgE048tfGSlTSlUWSIqRrR4SdAFsmU9AcMZX4Un97oOkIgkQS4I0das52voXSqrNCSArpb3qvse4x1NQii1enFMpLKPp7xutiJ4zra85Q02Svw8WJ7NlDS7ByusMY98hH8NCLnReN30x8DAoLz5xU8PxmssWbYkMuYxZNowA7b6rqY1tyYcb8xuVUyrzxVZSpmEvhgyuaJpFk33zHU28L2eHqVekUmBvGIZbbow2rFNkBUYgsEcma4unTXdgAtURjilzDBgJmUCH9BWQaehF93S6ME6XXZ3g8Vh5BlPwc6L8Y00UYQF3gV1at4zQuNE4iStPdmMWZIChEOk3VYpB4XtxykTI30LbPLJD0Eub5Kusqd5QbC8gAJfT4Xg2KZfuRMLHKp92PhlMaufs0JZ22PGlFO7iftM3dGcTtkqAewUUXauSRE9lGiLNW4WoWjb27f3YzbxhUksepLKRIGDS6AnK4EMMt90sZTSzOJwEy9F3elZJs0t5azfmUgCFTFUsEloxDzCj6AwmuvdG1t9zYDPENNytTeDhzdACkBSmj654fAGBMn6lKiaD911vVlB9qxSB3CB5AEHViWm9ngDzsYD1FiqOVsZQGgu5hSgkIXgpbW6jKPKhVGz2T6G40gb88yh7G3JiulIIsqLP
+jwt_secret_key_last_rotated_version: 2.3.2
+jwt_timeout: 1
+language: zh_CN
+listen_port: 8008
+location: Asia/Shanghai
+site_name: 哪吒监控
+tls: true
+user_template: user-dist
